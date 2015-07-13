@@ -1,0 +1,19 @@
+:torso 	:waist-z
+:larm 	:collar-y
+		:shoulder-p
+		:shoulder-r
+		:elbow-p
+		:elbow-r
+		:wrist-p
+8		:wrist-r
+		// :gripper // independent from angle-vector
+:rarm	:collar-y
+		:shoulder-p
+		:shoulder-r
+		:elbow-p
+		:elbow-r
+		:wrist-p
+15		:wrist-r
+		// :gripper // independent from angle-vector
+:head	:neck-y
+17		:neck-p
