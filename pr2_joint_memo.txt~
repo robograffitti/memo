@@ -1,5 +1,3 @@
-PR2 Joints for roseus
-
 :torso 	:waist-z
 :larm 	:collar-y
 		:shoulder-p
